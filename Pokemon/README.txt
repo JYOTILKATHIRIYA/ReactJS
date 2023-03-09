@@ -1,7 +1,6 @@
 *******************************************************************************************
 
 Author : JYOTIL KATHIRIYA
-Purpose : ReactJS Internship
 
 This is a small work developed using ReactJS.
 
