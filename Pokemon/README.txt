@@ -1,5 +1,4 @@
 *******************************************************************************************
-Assignment assigned by Dot3 Solutions
 
 Author : JYOTIL KATHIRIYA
 Purpose : ReactJS Internship
